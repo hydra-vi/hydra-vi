@@ -4,7 +4,7 @@
 
 I'm a Business data analyst. I am from India and currently living in Germany. I am expert in Data analysis & visualization, Data Science, & Big data technologies.
 
-- 💼 Currently working at [Decathlon as team Coordinator.
+- 💼 Currently working at Decathlon as team Coordinator.
 - 🌱 Learning and growing every day to keep up with current trends and technologies.
 - 🎯 Pursuing for new opportunity out there on the market.
 
