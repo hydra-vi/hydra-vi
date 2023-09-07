@@ -13,7 +13,7 @@ I'm a Business data analyst. I am from India and currently living in Germany. I 
 I have experience working with a variety of technologies, including:
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/OS-Linux-brightgreen?style=social&logo=linux&logoColor=violet&label=OS&labelColor=%237b2828&color=%233E2CD5)
+![](https://img.shields.io/badge/OS-Linux-brightgreen?style=social&logo=linux&logoColor=violet&label=OS&labelColor=%237b2828&color=%233E2CD5)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational%3Fstyle%3Dplastic%26logo%3Dpython%26logoColor%3Dwhite%26color%3Dblue?logo=python)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
