@@ -2,10 +2,10 @@
 
 ## About Me
 
-I'm a Business data analyst. I am from India and currently living in Germany. I am expert in Data analysis & visualization, Data Science, & Big data technologies.
+I am a data enthusiast who love statistics as because that's how everything works. I squeeze data to get all the information out and put it on Intractive Dashboards to take business decision. Once I am done with that I carry those journey to forecast future outcomes according to business needs.
 
-- 💼 Currently working at Decathlon as team Coordinator.
-- 🌱 Learning and growing every day to keep up with current trends and technologies.
+- 💼 Currently working on freelance projects.
+- 🌱 Learning and growing every day and updated with current trends and technologies.
 - 🎯 Pursuing for new opportunity out there on the market.
 
 ## Technologies I Love
@@ -39,7 +39,7 @@ Let's connect and chat about our shared interests:
 
 ## My Recent Projects
 
-I am currently working on multiple projects to keep practising and upgrade myself. So Feel free to explore these projects and provide feedback!
+I am currently working on multiple freelance projects. So Feel free to explore these projects and provide feedback!
 
 ## Get in Touch
 
