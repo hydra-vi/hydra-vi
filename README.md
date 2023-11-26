@@ -8,7 +8,7 @@ I am a data enthusiast who love statistics as because that's how everything work
 - 🌱 Learning and growing every day and updated with current trends and technologies.
 - 🎯 Pursuing for new opportunity out there on the market.
 
-## Technologies I Love
+## Stack I use
 
 I have experience working with a variety of technologies, including:
 
